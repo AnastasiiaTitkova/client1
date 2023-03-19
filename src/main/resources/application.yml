@@ -1,0 +1,6 @@
+server:port:0
+
+spring:application:name:client
+eureka:instance:instance-id:client
+
+eureka:client:service-url:defaultZone:http://localhost:8081/eureka
